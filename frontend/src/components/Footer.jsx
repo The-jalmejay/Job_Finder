@@ -56,12 +56,12 @@ const Footer = () => {
             <p className='text-gray-300 text-sm text-center sm:text-left'>
               &copy; 2023 JobFinder —
               <a
-                href='https://www.linkedin.com/in/thatonekrish/'
+                href='https://www.linkedin.com/in/the-jalmejay-a358bb1a3/'
                 className='text-[#1199e7] ml-1'
                 target='_blank'
                 rel='noopener noreferrer'
               >
-                @ThatOneKrish
+                @the-Jalmejay
               </a>
             </p>
 
